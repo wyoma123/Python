@@ -104,16 +104,16 @@ f.pack()
 
 root.mainloop()
 
-"""
-Hey, Baby
-here we make Calculator GUI
-make it more s***
-                                     BYE
+
+
+
+
+
                                 
-                              ^^^^         ^^^^
-                                ()         ()
-                                      |
-                                  _   |   _
-                                   _     _
-                                     - - 
-"""
+     
+   
+                        
+                      
+                      
+
+
