@@ -26,7 +26,7 @@ def click(event):
 
 
 root = Tk()
-root.geometry("300x450")
+root.geometry("600x850")
 # root.minsize(400, 600)
 # root.maxsize(400, 600)
 root.title("Calculator By Devendra")
